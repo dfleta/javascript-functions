@@ -8,7 +8,8 @@
  * by using the keyword this.
  * 
  * Any function that is used as a method is effectively 
- * passed an implicit argumentthe object through which it is invoked. 
+ * passed an implicit argument the object through which
+ * it is invoked. 
  * Como los metodos Python con self.
  * 
  * JavaScript. the Definitive Guide. David Flanagan.
