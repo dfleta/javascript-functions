@@ -45,5 +45,5 @@ console.log(max(largest));
 largest = max(1);    // => 1
 console.log(max(largest));
 
-largest = max();    // => 1
+largest = max();    // => -Infinity
 console.log(max(largest));
